@@ -1,0 +1,9 @@
+{
+    "name": "Hexas_Cosmetics",
+    "version_number": "0.0.2",
+    "website_url": "https://discord.com/invite/cKa6sPBFZ9",
+    "description": "A colletion of cosmetics that i made for MoreCompany by notnotnotswipez",
+    "dependencies": [
+        "notnotnotswipez-MoreCompany-1.7.1"
+    ]
+}

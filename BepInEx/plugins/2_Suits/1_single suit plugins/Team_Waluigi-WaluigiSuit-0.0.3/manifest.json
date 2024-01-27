@@ -1,0 +1,9 @@
+{
+    "name": "WaluigiSuit",
+    "version_number": "0.0.3",
+    "website_url": "",
+    "description": "WAHHHHHHH",
+    "dependencies": [
+        "x753-More_Suits-1.4.1"
+    ]
+}
